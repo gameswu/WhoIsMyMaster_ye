@@ -1,0 +1,6 @@
+{
+    "master_id": {
+        "type": "list",
+        "description": "小夜主人的id列表"
+    }
+}
